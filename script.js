@@ -3,7 +3,7 @@
   'use strict';
   const translations = {
     fr: {
-      skip: 'Aller au contenu', navigation: 'Navigation principale', chooseLanguage: 'Choisir la langue', homeLink: 'IJBLux accueil',
+      skip: 'Aller au contenu', navigation: 'Navigation principale', chooseLanguage: 'Choisir la langue', homeLink: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. accueil',
       openMenu: 'Ouvrir la navigation', closeMenu: 'Fermer la navigation',
       navAbout: 'L’association', navFocus: 'Nos priorités', navWork: 'Nos activités', navBoard: 'Notre conseil', navContact: 'Nous contacter',
       heroEyebrow: 'Une nouvelle association. Un objectif commun.', heroLine1: 'Grandir ensemble.', heroLine2: 'Trouver sa place.',
@@ -30,10 +30,10 @@
       workPrintingCategory: 'Éducation et créativité numérique', workPrintingTitle: 'Découvrir l’impression 3D', workPrintingBody: 'Un atelier d’impression 3D avec des jeunes : apprendre, créer et donner vie à l’imagination.',
       workPrintingAlt: 'Des jeunes participent à un atelier avec une imprimante 3D et un écran de démonstration.', workPrintingLink: 'Voir l’atelier d’impression 3D sur Instagram',
       workLanguageCategory: 'Langues et rencontres', workLanguageTitle: 'Notre café linguistique démarre', workLanguageBody: 'Un premier aperçu de notre café linguistique, où les rencontres et la conversation rapprochent les personnes.',
-      workLanguageAlt: 'Une intervenante présente IJBLux à des participants réunis autour d’une table au café linguistique.', workLanguageLink: 'Voir le café linguistique sur Instagram',
+      workLanguageAlt: 'Une intervenante présente Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. à des participants réunis autour d’une table au café linguistique.', workLanguageLink: 'Voir le café linguistique sur Instagram',
       workCreativeCategory: 'Culture et communauté', workCreativeTitle: 'Des actions locales en mouvement', workCreativeBody: 'Art, musique, danse et communauté : un aperçu de nos activités créatives locales.',
-      workCreativeAlt: 'Quatre participants devant une fresque colorée et une affiche IJBLux, l’un tenant un ukulélé.', workCreativeLink: 'Voir les activités créatives locales sur Instagram',
-      workPostLink: 'Voir la publication originale', workFollowIntro: 'Suivez nos prochaines initiatives.', instagramLink: 'Visiter IJBLux sur Instagram', instagramOfficial: 'Notre compte Instagram officiel',
+      workCreativeAlt: 'Quatre participants devant une fresque colorée et une affiche de l’association, l’un tenant un ukulélé.', workCreativeLink: 'Voir les activités créatives locales sur Instagram',
+      workPostLink: 'Voir la publication originale', workFollowIntro: 'Suivez nos prochaines initiatives.', instagramLink: 'Visiter Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. sur Instagram', instagramOfficial: 'Notre compte Instagram officiel',
       boardLabel: 'Notre conseil', boardTitle: 'Les personnes qui portent notre mission.', boardIntro: 'Notre conseil d’administration fondateur, nommé le 15 août 2026.',
       president: 'Président', vicePresident: 'Vice-président', deputyPresident: 'Président suppléant',
       contactLabel: 'Nous contacter', contactTitle: 'Tout commence par une conversation.',
@@ -45,12 +45,12 @@
       privacyBody: 'Ce site n’utilise ni outils d’analyse, ni cookies publicitaires, ni services tiers intégrés, ni formulaires de contact. Le choix de langue s’applique uniquement à la page actuelle et n’est pas enregistré.',
       privacyHost: 'Lorsqu’il est hébergé sur GitHub Pages, l’hébergeur traite les données techniques des requêtes conformément à sa propre déclaration de confidentialité. Pour toute question concernant des informations partagées par e-mail, contactez ijblasbl@gmail.com.',
       privacyLink: 'Déclaration de confidentialité de GitHub ↗', footerNote: 'Jeunesse. Éducation. Rencontres.', announcement: 'La langue du site est maintenant le français.',
-      pageTitle: 'IJBLux | Jeunesse, éducation et rencontres au Luxembourg',
+      pageTitle: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. | Jeunesse, éducation et rencontres au Luxembourg',
       pageDescription: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. Une association luxembourgeoise pour la jeunesse, l’éducation, l’inclusion et la coopération internationale. RCS F15901.',
       socialDescription: 'Une nouvelle association luxembourgeoise qui rapproche les personnes grâce à l’éducation, la compréhension interculturelle et la participation.'
     },
     de: {
-      skip: 'Zum Inhalt springen', navigation: 'Hauptnavigation', chooseLanguage: 'Sprache wählen', homeLink: 'IJBLux Startseite',
+      skip: 'Zum Inhalt springen', navigation: 'Hauptnavigation', chooseLanguage: 'Sprache wählen', homeLink: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. Startseite',
       openMenu: 'Navigation öffnen', closeMenu: 'Navigation schließen',
       navAbout: 'Über uns', navFocus: 'Schwerpunkte', navWork: 'Unsere Arbeit', navBoard: 'Unser Vorstand', navContact: 'Kontakt',
       heroEyebrow: 'Ein neuer Verein. Ein gemeinsames Ziel.', heroLine1: 'Wachsen dürfen.', heroLine2: 'Dazugehören.',
@@ -77,10 +77,10 @@
       workPrintingCategory: 'Bildung und digitale Kreativität', workPrintingTitle: '3D-Druck entdecken', workPrintingBody: 'Ein 3D-Druck-Workshop mit jungen Menschen: lernen, gestalten und Ideen Wirklichkeit werden lassen.',
       workPrintingAlt: 'Junge Menschen nehmen an einem Workshop mit einem 3D-Drucker und einer Präsentation teil.', workPrintingLink: 'Den 3D-Druck-Workshop auf Instagram ansehen',
       workLanguageCategory: 'Sprachen und Begegnung', workLanguageTitle: 'Unser Sprachcafé startet', workLanguageBody: 'Ein erster Einblick in unser Sprachcafé, das Menschen für Gespräche und Begegnungen zusammenbringt.',
-      workLanguageAlt: 'Eine Sprecherin stellt IJBLux den Teilnehmenden am Tisch des Sprachcafés vor.', workLanguageLink: 'Das Sprachcafé auf Instagram ansehen',
+      workLanguageAlt: 'Eine Sprecherin stellt Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. den Teilnehmenden am Tisch des Sprachcafés vor.', workLanguageLink: 'Das Sprachcafé auf Instagram ansehen',
       workCreativeCategory: 'Kultur und Gemeinschaft', workCreativeTitle: 'Lokale Aktionen in Bewegung', workCreativeBody: 'Kunst, Musik, Tanz und Gemeinschaft: ein Einblick in unsere lokalen kreativen Aktivitäten.',
-      workCreativeAlt: 'Vier Teilnehmende vor einer bunten Wand und einem IJBLux-Schild, einer mit einer Ukulele.', workCreativeLink: 'Lokale kreative Aktivitäten auf Instagram ansehen',
-      workPostLink: 'Originalbeitrag ansehen', workFollowIntro: 'Verfolgen Sie unsere nächsten Schritte.', instagramLink: 'IJBLux auf Instagram besuchen', instagramOfficial: 'Unser offizielles Instagram-Profil',
+      workCreativeAlt: 'Vier Teilnehmende vor einer bunten Wand und einem Vereinsschild, einer mit einer Ukulele.', workCreativeLink: 'Lokale kreative Aktivitäten auf Instagram ansehen',
+      workPostLink: 'Originalbeitrag ansehen', workFollowIntro: 'Verfolgen Sie unsere nächsten Schritte.', instagramLink: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. auf Instagram besuchen', instagramOfficial: 'Unser offizielles Instagram-Profil',
       boardLabel: 'Unser Vorstand', boardTitle: 'Die Menschen hinter unserem Ziel.', boardIntro: 'Unser Gründungsvorstand, bestellt am 15. August 2026.',
       president: 'Präsident', vicePresident: 'Vizepräsident', deputyPresident: 'Stellvertretender Präsident',
       contactLabel: 'Kontakt', contactTitle: 'Gute Dinge beginnen mit einem Gespräch.',
@@ -91,7 +91,7 @@
       privacyBody: 'Diese Website verwendet keine Analysewerkzeuge, Werbe-Cookies, eingebetteten Drittanbieterdienste oder Kontaktformulare. Die Sprachwahl gilt nur für die aktuelle Seite und wird nicht gespeichert.',
       privacyHost: 'Bei einer Veröffentlichung über GitHub Pages verarbeitet der Hostinganbieter technische Anfragedaten nach seiner eigenen Datenschutzerklärung. Bei Fragen zu per E-Mail übermittelten Informationen wenden Sie sich an ijblasbl@gmail.com.',
       privacyLink: 'Datenschutzerklärung von GitHub ↗', footerNote: 'Jugend. Bildung. Begegnung.', announcement: 'Die Sprache der Website ist jetzt Deutsch.',
-      pageTitle: 'IJBLux | Jugend, Bildung und Begegnung in Luxemburg',
+      pageTitle: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. | Jugend, Bildung und Begegnung in Luxemburg',
       pageDescription: 'Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. Ein luxemburgischer Verein für Jugendentwicklung, Bildung, Inklusion und internationale Zusammenarbeit. RCS F15901.',
       socialDescription: 'Ein neuer luxemburgischer Verein, der Menschen durch Bildung, interkulturelles Verständnis und Teilhabe verbindet.'
     }
