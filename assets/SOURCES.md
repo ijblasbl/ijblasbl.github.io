@@ -4,7 +4,7 @@ Photos and the logo were downloaded from the association’s Instagram page on 1
 
 | Website file | Original source |
 | --- | --- |
-| `ijblux-logo.jpg` | [IJBLux profile picture](https://www.instagram.com/ijblux.asbl/) |
+| `ijblux-logo.jpg` | [Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. profile picture](https://www.instagram.com/ijblux.asbl/) |
 | `3d-printing-workshop.jpg` | [3D printing workshop](https://www.instagram.com/ijblux.asbl/p/DeNqipWCMx-/) |
 | `language-cafe.jpg` | [Starting our language café](https://www.instagram.com/ijblux.asbl/p/DdfRBIUo84y/) |
 | `local-creative-actions.jpg` | [Local actions in motion](https://www.instagram.com/ijblux.asbl/p/DdBjPjMI9F4/) |
