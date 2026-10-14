@@ -1,6 +1,6 @@
-# IJBLux — Luxembourg association website
+# Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l. — website
 
-A small static website for **Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l.** The registered name, mission, board, registered office, email and dates come from the two supplied Luxembourg registration documents (RCS F15901). “IJBLux” is a short display name; the full registered name appears on the site.
+A small static website for **Internationaler Jugend- und Bildungsverein Luxembourg a.s.b.l.** The registered name, mission, board, registered office, email and dates come from the two supplied Luxembourg registration documents (RCS F15901). The full registered name is used throughout the site.
 
 The website is plain HTML, CSS and JavaScript. No installation, build, PHP, database, API keys or paid service is needed. It works on GitHub Pages at a repository URL or a custom domain. English is available without JavaScript; the language switch adds French and German. All fonts and graphics are local.
 
